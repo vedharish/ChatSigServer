@@ -1,0 +1,22 @@
+{
+  "name": "chat_sig_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vedharish/ChatSigServer.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vedharish/ChatSigServer/issues"
+  },
+  "homepage": "https://github.com/vedharish/ChatSigServer#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.4.8"
+  }
+}
